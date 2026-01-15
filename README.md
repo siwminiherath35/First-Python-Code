@@ -1,11 +1,11 @@
-# 🐍 First Python Code
+# First Python Code
 
-Hello! 👋  
+Hello!   
 I'm **Siwmini Sathyavi Herath**, and this is my **first Python program**.
 
 ---
 
-## 📌 About This Project
+##  About This Project
 
 This project is created as a beginner-level Python program to learn:
 - Basic Python syntax
@@ -14,7 +14,7 @@ This project is created as a beginner-level Python program to learn:
 
 ---
 
-## 🧠 Python Code
+##  Python Code
 
 ```python
 name = "Siwmini Sathyavi Herath"
